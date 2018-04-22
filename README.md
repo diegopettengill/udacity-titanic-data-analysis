@@ -3,6 +3,7 @@
 ## :bar_chart: Analisando uma tragédia com Tableau
 
 [Primeira versão](https://public.tableau.com/views/UdacityDataScienceII-Project/Titanic-Anlise?:embed=y&:display_count=yes)
+
 [Versão Final](https://public.tableau.com/views/UdacityDataScienceII-ProjectFinal/Titanic-Anlise?:embed=y&:display_count=yes)
 
 ### :art: Design
