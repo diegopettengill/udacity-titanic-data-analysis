@@ -21,6 +21,11 @@ Para os sobreviventes optei pela cor verde e para os não sobreviventes a cor ci
 3. Adicionar o no eixo X a descrição "Idade dos Sobreviventes" e no eixo Y a descrição
 4. Adicionar uma história de tripulantes e família
 
+#### Após o feedback
+
+A sugestão de tripulação não foi atendida pois esta informação não estava disponível no dataset.
+Todas as outras sugestões foram acatadas e implementadas.
+
 
 ### :nut_and_bolt: Recursos
 
