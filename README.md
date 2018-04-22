@@ -4,7 +4,7 @@
 
 [Primeira versão](https://public.tableau.com/views/UdacityDataScienceII-Project/Titanic-Anlise?:embed=y&:display_count=yes)
 
-[Versão Final](https://public.tableau.com/views/UdacityDataScienceII-ProjectFinal/Titanic-Anlise?:embed=y&:display_count=yes)
+:star: [Versão Final](https://public.tableau.com/views/UdacityDataScienceII-ProjectFinal/Titanic-Anlise?:embed=y&:display_count=yes)
 
 ### :art: Design
 
@@ -31,4 +31,5 @@ Todas as outras sugestões foram acatadas e implementadas.
 ### :nut_and_bolt: Recursos
 
 [Wikipedia](https://pt.wikipedia.org/wiki/RMS_Titanic)
-[Kaggle] (https://www.kaggle.com/c/titanic/data)
+
+[Kaggle](https://www.kaggle.com/c/titanic/data)
