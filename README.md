@@ -9,7 +9,7 @@
 ### Resumo
 
 Com os 891 registros de passageiros do Titanic disponíveis, esta análise leva em consideração
-alguns dados como Sexo, Idade, Status socio-econômico e sobreviventes. Apesar da maioria dos passageiros
+alguns dados como Sexo, Idade, Status socio-econômico, sobreviventes e não sobreviventes da tragédia. Apesar da maioria dos passageiros
 serem Homens, a priorização do resgate para mulheres e crianças surtiu muito efeito, já que proporcionalmente
 as mulheres tiveram uma maior taxa de sobrevivência.
 
