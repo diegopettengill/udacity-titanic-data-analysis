@@ -16,12 +16,9 @@ as mulheres tiveram uma maior taxa de sobrevivência.
 
 ### :art: Design
 
-As escolhas dos gráfico de barra e de pizza foi baseada no público que iria consumir essa análise,
-que no caso são pessoas comuns.
+A escolhas do gráfico de barras foi baseada no público que iria consumir essa análise, que no caso são pessoas comuns.
 
 As barras empilhadas e agrupadas facilitam a visualização de dados agrupados, que neste caso todos os gráficos possuem.
-
-O gráfico de pizza fornece uma compreensão instantânea das proporções, quando alguns setores são usados como dimensões.
 
 Utilizei cores como o Rosa para representar o sexo feminino e o azul para o masculino.
 
@@ -33,6 +30,8 @@ Para os sobreviventes optei pela cor verde e para os não sobreviventes a cor ci
 2. No gráfico de pizza, na última história diminuir a letra das fatias.
 3. Adicionar o no eixo X a descrição "Idade dos Sobreviventes" e no eixo Y a descrição
 4. Adicionar uma história de tripulantes e família
+5. Removido o gráfico de pizza na visualização das classes por não ser a mesma quantia de registros em todas as classes.
+6. Alterado a visualização de sobreviventes para porcentagem, por ser mais fácil de visualizar.
 
 #### Após o feedback
 
